@@ -4,6 +4,8 @@ This repository includes various 3D models and design files that represent diffe
 This project aims to provide accurate and visually appealing CAD models for kitchen design. 
 Whether you're an interior designer, a homeowner planning a renovation, or just a CAD enthusiast, these models can help visualize kitchen layouts and components.
 
+You can acces here (Onshape) - https://cad.onshape.com/documents/520e86332addf4fbcb79973c/w/740c0bd989b4be2f79c5be1d/e/8c47a5bf6807047e61bcc41c?renderMode=0&uiState=66d5ec802336aa7e8dd3955f
+
 Process:
 
 ![Screenshot 2024-08-05 000532](https://github.com/user-attachments/assets/23787411-354e-44b8-9e43-6c0dfed0c8ca)
